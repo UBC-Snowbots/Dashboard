@@ -1,2 +1,2 @@
-# Documentation
+# Dashboard
 Click on 'Wiki'
